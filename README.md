@@ -3,9 +3,9 @@ Testing poptexture code for generating synthetic textures
 
 # User instructions
 
-  >> git clone https://github.com/popTextureDS.git
+  >> git clone https://github.com/popTextureTest.git
   
-  >> cd popTextureDS/
+  >> cd popTextureTest/
   
   >> conda create -n popTextureDS python=3.6 ipykernel
   
