@@ -73,4 +73,4 @@ urllib3==1.25.10
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 Werkzeug==1.0.1
 wrapt==1.12.1
-git+https://github.com/lonce/paramManager.git
+-e git+https://github.com/prashanthtr/paramTest#egg=paramTest

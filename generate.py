@@ -9,9 +9,12 @@ import pop_sound
 import drip_sound
 import librosa # conda install -c conda-forge librosa
 
+sys.path.insert(1, os.path.dirname(os.path.dirname(os.path.abspath("./src/paramTest"))))
+
 from paramManager import paramManager
 from Tf_record import tfrecordManager
 
+print(paramManager)
 
 paramArr = []
 data = []
